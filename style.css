@@ -1,0 +1,35 @@
+body {
+    background-color: #CCFDF3;
+    /* color de las letra*/
+    color: black;
+    font-family:'Times New Roman', Times, serif
+   
+}
+
+p {
+    color: rgb(13, 2, 107)
+}
+/*para poner una clase ponemos un punto antes del nombre*/
+
+h1{
+    color: blue;
+}
+
+a{
+    color: red;
+}
+
+.titulo-web {
+    color: black;
+    text-align: center;
+    font-size: x-large
+    
+
+
+}
+
+img {
+    /*Anchura*/
+    width: 200px;
+    height: 200px;
+}
